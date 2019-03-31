@@ -40,7 +40,7 @@ toc: 2012 Terms
 
 **alchemy** [107], [401]
 
-**Alcman** [219]; _see also_ <span class="see-also"mythology</span>
+**Alcman** [219]; _see also_ <span class="see-also">mythology</span>
 
 **Algeria** [117]
 
