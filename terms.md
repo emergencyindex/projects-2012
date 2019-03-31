@@ -244,7 +244,7 @@ toc: 2012 Terms
 
 **cleaning** [089], [097], [287], [299], [301], [357], [381], [439], [451], [453]
 
-**clothes** [007], [075], [099], [133], [163], [277], [289], [341], [379], [465], [467], [513]; _see also_ <span class="see-also">costume</span>, <span class="see-also">dress</span>, uniform</span>, <span class="see-also">wearable technology</span>
+**clothes** [007], [075], [099], [133], [163], [277], [289], [341], [379], [465], [467], [513]; _see also_ <span class="see-also">costume</span>, <span class="see-also">dress</span>, <span class="see-also">uniform</span>, <span class="see-also">wearable technology</span>
 
 **coal mine** [305]
 
