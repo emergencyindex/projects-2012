@@ -16,7 +16,7 @@ toc: 2012 Terms
 {: #A .index .sticky-nav }
 ## A
 
-Abramovic, Marina [085]
+Abramović, Marina [085]
 
 absence [033], [091], [139], [141], [205], [319], [335], [393], [471]
 
@@ -56,7 +56,7 @@ altar [019], [071], [347]
 
 ancestry [081], [357], [461]
 
-Andric´, Ivo [389]
+Andrić, Ivo [389]
 
 anesthesia [033], [181]; _see also_ sleeping pill
 
@@ -1357,7 +1357,7 @@ writing [103], [117], [189], [195], [199], [215], [223], [225], [255], [261], [2
 
 Young, Neil [457]
 
-Youtube [169], [197]
+YouTube [169], [197]
 
 {: #Z .index .sticky-nav }
 ## Z
